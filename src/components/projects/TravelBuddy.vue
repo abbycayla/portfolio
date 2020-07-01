@@ -56,9 +56,9 @@ off: function() {
 }
 
 #travel:hover  {
-    padding: 5%;
+    padding: 3%;
     transition: 0.4s;
-    background-color: #010206;
+    /* background-color: #010206; */
     cursor: pointer;
 }
 
