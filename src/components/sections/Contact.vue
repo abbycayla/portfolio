@@ -11,9 +11,9 @@
               <p> If you are interested in my work and want to get in contact with me you can do so via the links below or email me at </p>
               <a class="email-link" href="mailto:abbycloete3552@gmail.com "> abbycloete3552@gmail.com </a>
             <div class="media-links">
-              <a href="https://www.instagram.com/abbythecayla/?hl=en"><img src="https://i.ibb.co/9tmnBMr/instagram-1.png" alt="instagram-1" border="0"></a>
-              <a href="https://twitter.com/_sushifish"><img src="https://i.ibb.co/MCFD2ZK/twitter-1.png" alt="twitter-1" border="0"></a>
-              <a href="https://github.com/abbycayla"><img src="https://i.ibb.co/VBrGCWZ/Git-Hub-Mark-Light-64px.png" alt="Git-Hub-Mark-Light-64px" border="0"></a>
+              <a href="https://www.instagram.com/abbythecayla/?hl=en" target="_blank"><img src="https://i.ibb.co/9tmnBMr/instagram-1.png" alt="instagram-1" border="0"></a>
+              <a href="https://twitter.com/_sushifish" target="_blank"><img src="https://i.ibb.co/MCFD2ZK/twitter-1.png" alt="twitter-1" border="0"></a>
+              <a href="https://github.com/abbycayla" target="_blank"><img src="https://i.ibb.co/VBrGCWZ/Git-Hub-Mark-Light-64px.png" alt="Git-Hub-Mark-Light-64px" border="0"></a>
             </div>
             <div class="behance">
             <h2> Visit my Behance Profile for more of my work </h2>
