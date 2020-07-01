@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "fullpage.js": "^3.0.8",
+    "unpoly": "^0.62.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
