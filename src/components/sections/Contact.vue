@@ -78,7 +78,7 @@ label {
     /* margin: 0px 100px; */
     /* padding: 70px 0px 50px 0px; */
     text-align: right;
-    color: white;
+    color: red;
     /* color: orangered; */
     font-size: 5em;
     /* border-bottom: 1px #010206 solid; */
