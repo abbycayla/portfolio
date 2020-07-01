@@ -1,26 +1,26 @@
 <template>
     <div>
-        <section id="arlo">
+        <section id="travel">
 
-            <div class="arlo-content">
-                    <div class="arlo-image">
-                        <img src="https://i.ibb.co/LdKhDm8/arlo.png" alt="Arlo" v-on:click="on()">
+            <div class="travel-content">
+                    <div class="travel-image">
+                        <img src="https://i.ibb.co/hHVcWCQ/travel.png" alt="travel" v-on:click="on()">
                     </div>
-            </div>
+            </div>       
 
-            <div id="popup-arlo">
+            <div id="popup-travel">
                 <div id="popup-content">
                     <div class="popup-text">
-                        <h2> Arlo App </h2>
-                        <p> This brochure website for the Arlo App was created in 2019 during Level 6 Web and UX at Yoobee Colleges. Arlo is an app for home automation system / security and this site is a brochure site for advertising the app. </p>
+                        <h2> travel App </h2>
+                        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore </p>
                         <div class="buttons">
-                            <button> <a href="https://arlo-remake.netlify.app/" target="_blank"> View Live Site </a> </button>
-                            <button> <a href="https://www.behance.net/gallery/96790163/Arlo-Redesign" target="_blank"> UX Process </a> </button>
+                            <button> <a href="https://www.behance.net/gallery/96791945/travel-Group-App-Mockup" target="_blank"> View Live Site </a> </button>
+                            <button> <a href="https://www.behance.net/gallery/96791945/travel-Group-App-Mockup" target="_blank"> UX Process </a> </button>
                         </div>
                     </div>
 
                     <div class="popup-image">
-                        <img src="https://i.ibb.co/LdKhDm8/arlo.png" alt="Arlo">
+                        <img src="https://i.ibb.co/hHVcWCQ/travel.png" alt="travel">
                     </div>
 
                     <div>
@@ -35,14 +35,14 @@
 
 <script>
 export default {
-  name: 'Arlo',
+  name: 'TravelBuddy',
   methods: {
     on: function() {
-    document.getElementById("popup-arlo").style.display = "block";
+    document.getElementById("popup-travel").style.display = "block";
 },
 
 off: function() {
-  document.getElementById("popup-arlo").style.display = "none";
+  document.getElementById("popup-travel").style.display = "none";
 }
   }
 }
@@ -50,19 +50,19 @@ off: function() {
 
 <style scoped>
 
-#arlo {
+#travel {
     width: 100%;
     padding: 10%;
 }
 
-#arlo:hover  {
+#travel:hover  {
     padding: 5%;
     transition: 0.4s;
     background-color: #010206;
     cursor: pointer;
 }
 
-#popup-arlo {
+#popup-travel {
     position: fixed;
     display: none;
     width: 100%;
@@ -85,7 +85,7 @@ off: function() {
     width: 80%;
     transform: translate(-50%,-50%);
     -ms-transform: translate(-50%,-50%);
-    background-image: linear-gradient(0deg, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)),url('https://i.ibb.co/LdKhDm8/arlo.png');
+    background-image: linear-gradient(0deg, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)),url('https://i.ibb.co/hHVcWCQ/travel.png');
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -124,7 +124,7 @@ p {
     cursor: pointer;
 }
 
-.arlo-image img {
+.travel-image img {
     width: 100%;
 }
 
@@ -150,17 +150,17 @@ button:hover {
 
 @media (max-width: 800px){
 
-#arlo {
+#travel {
     width: 100%;
     /* display: block; */
 }
 
-.arlo-content {
+.travel-content {
     /* background-color: #101C31; */
     /* display: flex;
     justify-content: space-between; */
-    background-image: url('https://i.ibb.co/LdKhDm8/arlo.png');
-    /* background-image: url('https://i.ibb.co/nkTNFSm/arlo.png'); */
+    background-image: url('https://i.ibb.co/LdKhDm8/travel.png');
+    /* background-image: url('https://i.ibb.co/nkTNFSm/travel.png'); */
     background-repeat: no-repeat;
     background-size: 100%;
     /* display: flex;
@@ -171,7 +171,7 @@ button:hover {
     /* width: 100%; */
 }
 
-.arlo-text {
+.travel-text {
     background-color: #010206;
     /* border-radius: 90px; */
     /* height: 100%; */
@@ -200,7 +200,7 @@ h2 {
     /* text-align: center; */
 }
 
-.arlo-image img {
+.travel-image img {
     width: 100%;
     /* position: relative; */
 }

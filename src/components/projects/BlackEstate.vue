@@ -12,9 +12,9 @@
                 <div id="popup-content">
                     <div class="popup-text">
                         <h2> Black Estate</h2>
-                        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore </p>
+                        <p> This website for the Black Estate was created in 2019 during Level 6 Web and UX at Yoobee Colleges. Black Estate is a remake of the original Black Estate site. </p>
                         <div class="buttons">
-                            <button> <a href="https://www.behance.net/gallery/96795743/Black-Estate-Redesign" target="_blank"> View Live Site </a> </button>
+                            <button> <a href="https://black-estate-remake.netlify.app/" target="_blank"> View Live Site </a> </button>
                             <button> <a href="https://www.behance.net/gallery/96795743/Black-Estate-Redesign" target="_blank"> UX Process </a> </button>
                         </div>
                     </div>

@@ -8,10 +8,10 @@
                 </div>
                 <div class="about-info">
                 <h1> ABOUT ME </h1>
-                    <h3> I am currently studying Web and Ux design. I have studied design and web dev for 2 years now and have been wanting to pursue a career in the development industry from a young age. Check out my work and let me know what you think!</h3>
+                    <h3> I am graduate Front-end Developer and I have studied design and web development for 2 years now and have been wanting to pursue a career in the development industry from a young age. Check out my work and let me know what you think!</h3>
                     <div class="about-buttons">
-                    <button> View My Work </button>
-                    <button> Contact me </button>
+                    <button> <a href="#projects"> View My Work </a> </button>
+                    <button> <a href="#contact"> Contact me </a> </button>
                     </div>
                 </div>
             </div>
@@ -61,7 +61,7 @@ export default {
     color: #010206;
     /* color: orangered; */
     font-size: 5em;
-    /* border-bottom: 1px #010206 solid; */
+    border-bottom: 1px #010206 solid;
 }
 
 
@@ -70,7 +70,7 @@ export default {
     font-weight: 400;
     text-align: right;
     /* padding-top: 7%; */
-    padding: 12% 0% 12% 12%;
+    padding: 12% 0% 12% 10%;
     line-height: 1.8;
     font-size: 1.9em;
     margin: 0;
@@ -87,17 +87,21 @@ export default {
 /* BUTTONS  */
 button {
     background-color: #FF7D00;
-    color: white;
     padding: 20px 30px;
     border: none;
     margin: 0% 0% 10% 10%;
-    font-size: 1.5em;
-    font-weight: 300;
 }
 
 button:hover {
     background-color: #010206;
     cursor: pointer;
+}
+
+button a {
+    color: white;
+    font-size: 1.8em;
+    font-weight: 300;
+    text-decoration: none;
 }
 
 

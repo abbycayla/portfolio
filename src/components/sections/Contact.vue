@@ -17,7 +17,7 @@
             </div>
             <div class="behance">
             <h2> Visit my Behance Profile for more of my work </h2>
-            <button> <a href="https://www.behance.net/abbycloete"> My Behance </a> </button>
+            <button> <a href="https://www.behance.net/abbycloete" target="_blank"> My Behance </a> </button>
             </div>
             </div>
             </div>
@@ -73,7 +73,7 @@ label {
     /* color: orangered; */
     font-size: 5em;
     margin-bottom: 5%;
-    /* border-bottom: 1px #010206 solid; */
+    border-bottom: 1px white solid;
 }
 
 /* .behance {
@@ -115,7 +115,7 @@ label {
   margin-left: 20%;
 }
 
-.email-link a{
+.email-link {
   color: #FF7D00;
   font-size: 2.2em;
   text-decoration: none;

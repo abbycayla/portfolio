@@ -12,9 +12,9 @@
                 <div id="popup-content">
                     <div class="popup-text">
                         <h2> Wanderfy App </h2>
-                        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore </p>
+                        <p> This is an app prototype for a custom made app called Wanderfy, created in Level 5 Web and Graphic 2019. This app is a fun way help teens and young adults get out and about in Christchurch using Wanderfy which gives you in-app rewards for visiting certain activity points in Christchurch </p>
                         <div class="buttons">
-                            <button> <a href="https://www.behance.net/gallery/96791945/Wanderfy-Group-App-Mockup" target="_blank"> View Live Site </a> </button>
+                            <button> <a href="https://projects.invisionapp.com/d/main?origin=v7#/console/17143445/357207812/preview?scrollOffset=620" target="_blank"> View Live Prototype </a> </button>
                             <button> <a href="https://www.behance.net/gallery/96791945/Wanderfy-Group-App-Mockup" target="_blank"> UX Process </a> </button>
                         </div>
                     </div>

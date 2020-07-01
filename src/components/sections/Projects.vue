@@ -12,6 +12,7 @@
       <div class="project">
         <Arlo/>
         <BlackEstate/>
+        <!-- <TravelBuddy/> -->
         <Wanderfy/>
       </div>
     </div>
@@ -25,13 +26,15 @@
 import Arlo from '../projects/Arlo.vue'
 import BlackEstate from '../projects/BlackEstate.vue'
 import Wanderfy from '../projects/Wanderfy.vue'
+// import TravelBuddy from '../projects/TravelBuddy.vue'
 
 export default {
   name: 'Projects',
   components: {
     Arlo,
     BlackEstate,
-    Wanderfy
+    Wanderfy,
+    // TravelBuddy
   }
 }
 
