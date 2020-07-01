@@ -4,23 +4,23 @@
 
             <div class="travel-content">
                     <div class="travel-image">
-                        <img src="https://i.ibb.co/hHVcWCQ/travel.png" alt="travel" v-on:click="on()">
+                        <img src="https://i.ibb.co/P46cvjR/travel-min.png" alt="travel" v-on:click="on()">
                     </div>
             </div>       
 
             <div id="popup-travel">
                 <div id="popup-content">
                     <div class="popup-text">
-                        <h2> travel App </h2>
-                        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore </p>
+                        <h2> Travel Buddy </h2>
+                        <p> This website, Travel Buddy, was created in 2019 in Level 6 Web and UX. Travel Buddy is a single page web application that allows users to search for accommodation in Christchurch. </p>
                         <div class="buttons">
-                            <button> <a href="https://www.behance.net/gallery/96791945/travel-Group-App-Mockup" target="_blank"> View Live Site </a> </button>
-                            <button> <a href="https://www.behance.net/gallery/96791945/travel-Group-App-Mockup" target="_blank"> UX Process </a> </button>
+                            <button> <a href="https://travel-buddy.netlify.app/" target="_blank"> View Live Site </a> </button>
+                            <button> <a href="https://www.behance.net/gallery/96790497/Travel-Buddy" target="_blank"> UX Process </a> </button>
                         </div>
                     </div>
 
                     <div class="popup-image">
-                        <img src="https://i.ibb.co/hHVcWCQ/travel.png" alt="travel">
+                        <img src="https://i.ibb.co/P46cvjR/travel-min.png" alt="travel">
                     </div>
 
                     <div>
@@ -85,7 +85,7 @@ off: function() {
     width: 80%;
     transform: translate(-50%,-50%);
     -ms-transform: translate(-50%,-50%);
-    background-image: linear-gradient(0deg, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)),url('https://i.ibb.co/hHVcWCQ/travel.png');
+    background-image: linear-gradient(0deg, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)),url('https://i.ibb.co/P46cvjR/travel-min.png');
     background-repeat: no-repeat;
     background-size: 100%;
 }

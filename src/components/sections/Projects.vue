@@ -12,7 +12,7 @@
       <div class="project">
         <Arlo/>
         <BlackEstate/>
-        <!-- <TravelBuddy/> -->
+        <TravelBuddy/>
         <Wanderfy/>
       </div>
     </div>
@@ -26,7 +26,7 @@
 import Arlo from '../projects/Arlo.vue'
 import BlackEstate from '../projects/BlackEstate.vue'
 import Wanderfy from '../projects/Wanderfy.vue'
-// import TravelBuddy from '../projects/TravelBuddy.vue'
+import TravelBuddy from '../projects/TravelBuddy.vue'
 
 export default {
   name: 'Projects',
@@ -34,7 +34,7 @@ export default {
     Arlo,
     BlackEstate,
     Wanderfy,
-    // TravelBuddy
+    TravelBuddy
   }
 }
 
